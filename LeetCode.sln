@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LeetCode", "LeetCode\LeetCode.pyproj", "{ED187B5D-FCB9-4897-988D-36287FA8D380}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LeetCode.Test", "LeetCode.Test\LeetCode.Test.pyproj", "{3AD486E7-E7CF-40C9-BA3B-45B0C689F557}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED187B5D-FCB9-4897-988D-36287FA8D380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED187B5D-FCB9-4897-988D-36287FA8D380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AD486E7-E7CF-40C9-BA3B-45B0C689F557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AD486E7-E7CF-40C9-BA3B-45B0C689F557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A5AAAFB-6790-45DC-9BEA-E314BFCF4C73}
+	EndGlobalSection
+EndGlobal
